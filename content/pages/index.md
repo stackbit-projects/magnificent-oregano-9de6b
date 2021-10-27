@@ -14,7 +14,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Features
     subtitle: The key different between us and other
     features:
