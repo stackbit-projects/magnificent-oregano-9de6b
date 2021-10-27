@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: No Kidding. lets talk!
-    subtitle: A new brand discord alt
+    subtitle: A new brand discord alternative.
     actions:
       - label: Get Started
         url: /signup
