@@ -113,7 +113,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create you"
+        "content": "&copy; Stackbit. All rights reserved."
     },
     "domain": "https://magnificent-oregano-9de6b.netlify.app"
 }
