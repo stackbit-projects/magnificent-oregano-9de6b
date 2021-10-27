@@ -16,7 +16,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: The key diffrent
+    subtitle: The key different between us and other
     features:
       - title: Being open source
         image: images/feature1.png
