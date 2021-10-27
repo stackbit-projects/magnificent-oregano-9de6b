@@ -92,7 +92,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: No Kidding. lets talk!
+    title: No kidding. lets talk!
     subtitle: A new brand discord alternative.
     actions:
       - label: Get Started
